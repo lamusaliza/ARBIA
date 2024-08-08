@@ -1,0 +1,13 @@
+
+body {
+    background-color: #ffe6f0; /* Fondo rosa claro */
+    color: #ff1493; /* Color de texto rosa profundo */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
